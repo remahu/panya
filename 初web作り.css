@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+h1 {color:#ffffee;}
+h1 {font-size:90px;}
+h1 {font-family: lobster;}
+h1 {border-style: solid;}
+h1 {border-color: orange;}
+h1 {border-width: 10px;}
+h1 {text-align: center;}
+h1 {border-radius: 50px;}
+h1 {padding: 10px;}
+h1 {margin: 30px;}
+h1 {border-rabius: 90px;}
+h1 {height: 450;}
+h1 {padding-top: 150px;}
+
+.shop {background-color : #ffffee;
+       color : #663300;
+       padding : 30px;
+       }
+
+.title {font-size:30px;
+        border-left-style:solid;
+        border-left-width:10px;
+        padding-left:15px;
+        margin-bottom:50px;
+        }     
+
+.shop p {font-size:20px;
+         background:#ffffff;
+         padding:20px;
+         border-radius:30px;
+         height:300px;
+         }
+
+.shop img {float:right;
+           }
+
+.photo {padding:30px;
+        background-image:url(wood.jpg);
+}
+    
+.photo h2 {color:#000000;
+           border-color:#ffcc11;
+}
+
+.photo h3 {color:#000000
+}
+
+.photo p {color:#000000;
+          clear:left;       
+}
+
+.photo div {background-color:#ffffff;
+            width:240px;
+            padding:15px;
+            float:left;
+            margin:10px;     
+}
+        
+
+
+
+
+
+
+
+header {background-image: url(bread.jpg);}
